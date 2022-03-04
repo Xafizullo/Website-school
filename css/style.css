@@ -84,3 +84,24 @@ body {
 .main {
   background-image: ;
 }
+.main {
+  background-color: #d9dadf;
+  height: 600px;
+  opacity: 10;
+  display: flex;
+  margin-top: 100px;
+}
+.main-left h4 {
+  font-size: 47px;
+  color: #4d57b8;
+  text-align: center;
+  padding-left: 0px;
+}
+.main-right img {
+  width: 50%;
+  background-size: cover;
+}
+.main-right img {
+  width: 600px;
+  height: 100%;
+}
